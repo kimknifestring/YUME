@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: a1919235171f60052817918c2ed53699
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194898
+  packageName: Eternity Djent/Metal-Scfi-Horror Music Pack
+  packageVersion: 1.0
+  assetPath: Assets/Audio/Music/Eternity-metal-scfi-pack/DavidKBD - Eternity Pack
+    - 09 - Soul evisceration - loop.ogg
+  uploadId: 432084
